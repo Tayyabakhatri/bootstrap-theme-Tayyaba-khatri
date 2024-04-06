@@ -5,3 +5,26 @@ span{
     fill: #09B850 !important;
     
 }
+.box-shadow{
+    background-color: #292a2d;
+}
+.bi-stack::before { content: "\f585"; }
+.pos{
+    width: 70px; 
+    height: 70px; 
+    position: absolute;
+     bottom:130px;
+      right:230px;
+}
+/* @media screen and (max-width:480px) {
+    .pos{
+        right: 263px;
+    }
+    
+}
+@media screen and (max-width:768px) {
+    .pos{
+        right: 124px;
+    }
+    
+} */
